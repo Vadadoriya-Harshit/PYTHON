@@ -1,0 +1,1 @@
+print("Hello","my","Name","is","Harshit","i","am","not","terrerist",sep=" :")

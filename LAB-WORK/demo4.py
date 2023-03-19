@@ -1,0 +1,5 @@
+print("\n\n\t\t\xb2\xb2\xb2\xb2 PRINT DETAILS \xb2\xb2\xb2\xb2")
+name=input("\n\n\t\t Enter Name : ")
+age=int(input("\n\n\t\tEnter Your Age ; "))
+print("\n\n\t\tName is : ",name)
+print("\n\n\t\tAge is : ",age)
