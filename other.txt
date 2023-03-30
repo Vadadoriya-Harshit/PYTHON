@@ -1,0 +1,10 @@
+->Check if "free" is present in the following text:
+
+txt = "The best things in life are free!"
+print("free" in txt)
+
+->string Concatenation
+a = "Hello"
+b = "World"
+c = a + " " + b
+print(c)
